@@ -1,0 +1,14 @@
+
+
+@font-face {
+    font-family: 'microextendflfregular';
+    src: url('microextendflf-webfont.eot');
+    src: url('microextendflf-webfont.eot?#iefix') format('embedded-opentype'),
+         url('microextendflf-webfont.woff2') format('woff2'),
+         url('microextendflf-webfont.woff') format('woff'),
+         url('microextendflf-webfont.ttf') format('truetype'),
+         url('microextendflf-webfont.svg#microextendflfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
